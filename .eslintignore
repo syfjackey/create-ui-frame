@@ -1,0 +1,7 @@
+node_modules/
+**/style/
+*.html
+es/
+lib/
+dist/
+testReport/
